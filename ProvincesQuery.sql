@@ -1,6 +1,6 @@
 SET IDENTITY_INSERT dbo.Provinces ON;
 
-INSERT INTO dbo.Provinces(Id, CreatedAt, ProvinceName) VALUES 
+INSERT INTO dbo.Provinces(Id, CreatedAt, Name) VALUES 
 (1,  GETDATE(), N'آذربایجان شرقی'),
 (2,  GETDATE(), N'آذربایجان غربی'),
 (3,  GETDATE(), N'اردبیل'),
