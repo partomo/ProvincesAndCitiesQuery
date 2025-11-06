@@ -16,6 +16,7 @@ INSERT INTO Counties (Id, ProvinceId, Name, CreatedAt) VALUES (14, 1, N'مراغ
 INSERT INTO Counties (Id, ProvinceId, Name, CreatedAt) VALUES (15, 1, N'مرند', GETDATE());
 INSERT INTO Counties (Id, ProvinceId, Name, CreatedAt) VALUES (16, 1, N'ملکان', GETDATE());
 INSERT INTO Counties (Id, ProvinceId, Name, CreatedAt) VALUES (17, 1, N'میانه', GETDATE());
+INSERT INTO Counties (Id, ProvinceId, Name, CreatedAt) VALUES (437, 1, N'ممقان', GETDATE());
 INSERT INTO Counties (Id, ProvinceId, Name, CreatedAt) VALUES (18, 1, N'ورزقان', GETDATE());
 INSERT INTO Counties (Id, ProvinceId, Name, CreatedAt) VALUES (19, 1, N'هشترود', GETDATE());
 INSERT INTO Counties (Id, ProvinceId, Name, CreatedAt) VALUES (20, 1, N'هریس', GETDATE());
